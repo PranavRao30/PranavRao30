@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### I'm Pranav Rao and this is my College Account!!
+
+### My main account can be found here
+
+### https://github.com/PranavRao18
+
 <!--
 **PranavRao30/PranavRao30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
